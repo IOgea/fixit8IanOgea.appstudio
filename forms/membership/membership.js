@@ -9,7 +9,7 @@ btnSubmitName.onclick=function(){
 else {
   lblMember.value = "You are not already a member, you have been added to the members"
   members.push(inptName.value)
-}
-}
 
-console.log(members)
+}
+  ChangeForm(calculator)
+}
