@@ -25,14 +25,14 @@
   "footer": "",
   "header": "First Number",
   "headerCols": 2,
-  "height": 45,
+  "height": 47,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "inptNum1",
   "inputType": "number",
   "inputmode": "",
-  "left": 38,
+  "left": 7,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -81,9 +81,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 46,
+  "top": 40,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 251
+  "width": 298
 }

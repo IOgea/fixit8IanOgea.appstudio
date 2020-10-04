@@ -36,6 +36,15 @@
         "Elements",
         "lblMember.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "membership",
+        "Elements",
+        "btnToCalc.json"
+      ]
     }
   ],
   "class": "",
